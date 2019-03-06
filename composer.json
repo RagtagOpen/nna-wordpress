@@ -31,7 +31,6 @@
     "wp-cli/wp-cli": "^1.4.1",
     "wpackagist-plugin/akismet": "^4.0",
     "wpackagist-plugin/disable-comments": "^1.7",
-    "wpackagist-plugin/gutenberg": "^2.9.2",
     "wpackagist-plugin/jetpack": "^6.0",
     "wpackagist-plugin/minimum-viable-sharing-meta": "^0.0.4",
     "wpackagist-plugin/nginx-helper": "^1.9.10",
@@ -63,7 +62,6 @@
         "wpackagist-plugin/jetpack",
         "wpackagist-plugin/akismet",
         "wpackagist-plugin/disable-comments",
-        "wpackagist-plugin/gutenberg",
         "wpackagist-plugin/updraftplus",
         "wpackagist-plugin/wordpress-seo"
       ]
